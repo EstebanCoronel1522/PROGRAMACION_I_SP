@@ -1,2 +1,1 @@
-# PROGRAMACION_I_SP
-esteban_coronel_segundo_parcial
+# Segundo_parcial
